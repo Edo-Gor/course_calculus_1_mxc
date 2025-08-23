@@ -8,7 +8,7 @@ This repository contains code related to the Calculus 1 course by Mike X. Cohen 
 
 The code in this repository is developed to solve the exercises provided along the course, and it has been written partially indepentently and partially from the code provided by the course instructor.
 
-## Structure (Sec_xx_)
+## Structure
 
 - Section 03 : Functions
 - Section 05 : Limits
