@@ -13,6 +13,6 @@ The code in this repository is developed to solve the exercises provided along t
 - Section 03 : Functions
 - Section 05 : Limits
 - Section 07 : Differentiation fundamentals
-- Section 09 : [...]
+- Section 09 : Differentiation rules and theorems
 - Section 11 : [...]
-- Section 23 : [...]
+- Section 13 : [...]
