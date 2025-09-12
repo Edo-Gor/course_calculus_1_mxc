@@ -14,5 +14,5 @@ The code in this repository is developed to solve the exercises provided along t
 - Section 05 : Limits
 - Section 07 : Differentiation fundamentals
 - Section 09 : Differentiation rules and theorems
-- Section 11 : [...]
+- Section 11 : Applications
 - Section 13 : [...]
