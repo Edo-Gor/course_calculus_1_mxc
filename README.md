@@ -15,4 +15,4 @@ The code in this repository is developed to solve the exercises provided along t
 - Section 07 : Differentiation fundamentals
 - Section 09 : Differentiation rules and theorems
 - Section 11 : Applications
-- Section 13 : [...]
+- Section 13 : Multivariate differentiation
